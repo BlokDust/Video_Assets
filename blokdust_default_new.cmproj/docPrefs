@@ -13,9 +13,9 @@
 	<key>DocPrefMainSplitterValue</key>
 	<string>641.00000000000000000000</string>
 	<key>DocPrefPlayheadTime</key>
-	<string>120</string>
+	<string>116</string>
 	<key>DocPrefPreviewScaleValue</key>
-	<string>0.60835629017447190314</string>
+	<string>0.75000000000000000000</string>
 	<key>DocPrefTrackHeights</key>
 	<array>
 		<integer>54</integer>
@@ -27,7 +27,7 @@
 	<key>DocPrefWindowSizePos</key>
 	<string>0 4 1440 874 0 0 1440 878 </string>
 	<key>DocPrefZoomValue</key>
-	<string>7.00714027119793758658</string>
+	<string>1.46231200665886285073</string>
 	<key>SaveAsStandaloneProject</key>
 	<real>1</real>
 </dict>
